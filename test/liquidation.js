@@ -10,7 +10,7 @@ describe("Liquidation", function () {
         params: [{
           forking: {
             jsonRpcUrl: process.env.ALCHE_API,
-            blockNumber: 12489619,
+            blockNumber: 11946807,
           }
         }]
       });
